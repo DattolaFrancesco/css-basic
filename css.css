@@ -70,3 +70,11 @@ footer{
 .finale{
   color: white;
 }
+button{
+    position: fixed;
+    left: 5px;
+    margin-top: 10px;
+    background-color: yellow;
+    width: 120px;
+    height: 50px;
+}
